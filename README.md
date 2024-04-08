@@ -1,4 +1,4 @@
-![BC9E1BFC3F6BC01B0B2659D2603FC92B](https://github.com/Aliceikkk/Aion-login-/assets/115286672/20d6771a-51c1-4f39-b68f-50c10d115bc6)# Aion-login software
+# Aion-login software
 
 一个简易的永恒之塔登录器 使用与8.4的模拟端
 
