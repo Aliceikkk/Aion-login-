@@ -7,10 +7,8 @@
 
 `
 pyinstaller -F -w -i aion.ico --add-data "background_images;./background_images" --add-data "logo.ico;." --add-data "tit.png;." --add-data "AaXinHuaMoZhuTi-2.ttf;." main.py
-
-
-缺模块请自行安装
 `
+缺模块请自行安装
 
 # 展示
 ![BC9E1BFC3F6BC01B0B2659D2603FC92B](https://github.com/Aliceikkk/Aion-login-/assets/115286672/86a0563d-82c9-4ee3-bd16-bbe8aac0ec31)
